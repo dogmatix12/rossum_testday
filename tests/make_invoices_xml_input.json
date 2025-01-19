@@ -1,0 +1,44 @@
+{
+    "InvoiceRegisters": {
+        "Invoices": {
+            "Payable": {
+                "InvoiceNumber": 143453775,
+                "InvoiceDate": "2019-03-01T00:00:00",
+                "DueDate": "2019-03-31T00:00:00",
+                "TotalAmount": "2706.00",
+                "Notes": null,
+                "Iban": "NO6513425245230",
+                "Amount": "2595.76",
+                "Currency": "NOK",
+                "Vendor": "InfoNet Workshop",
+                "VendorAddress": "2423 KONGSVINGER Norway",
+                "Details": [
+                    {
+                        "Detail": {
+                            "Amount": "1936.59",
+                            "AccountId": null,
+                            "Quantity": 3,
+                            "Notes": "HPi Battery 4C 40WHr 2 BAH LI LA098241"
+                        }
+                    },
+                    {
+                        "Detail": {
+                            "Amount": "8308.56",
+                            "AccountId": null,
+                            "Quantity": 4,
+                            "Notes": "HP 11.6-inch HD WLED UWVA touchscreen display ass"
+                        }
+                    },
+                    {
+                        "Detail": {
+                            "Amount": "137.90",
+                            "AccountId": null,
+                            "Quantity": 1,
+                            "Notes": "Line item 2"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
